@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.quartosS {
+    display: flex;
+    margin-left: 330px;
+}
+
+.quartosS img {
+    width: 300px;
+    height: 180px;
+    padding: 3px;
+}
+
+.lista li {
+    text-align: center;
+}
+
+.org {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.org2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.lista {
+    width: 1200px;
+    margin-left: 190px;
+}
+
+.mover {
+    margin-right: 74px;
+}
+
+.solteiro,
+.familia,
+.casal {
+    padding-top: 100px;
+}
+
+.familia {
+    padding-bottom: 100px;
+}
+
+.rodape {
+    background-color: rgba(0, 153, 102, 0.685);
+    color: white;
+}
+
+.rodape a {
+    color: white;
+    text-decoration: none;
+}
+
+.rodaped {
+    display: flex;
+    padding: 20px;
+    justify-content: space-evenly;
+    h1{
+        text-align: justify;
+    }
+}
+
+.fundo {
+    background-image: url(assets/img-fundo.jpg);
+    height: 800px;
+}
+
+.conteudo2 {
+    margin: 0 auto;
+    text-align: center;
+    height: 500px;
+}
+
+.textos {
+    color: rgb(107, 107, 107);
+    font-size: large;
+    width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.quartos img {
+    width: 300px;
+    height: 180px;
+}
+
+.topo {
+    text-align: center;
+    font-size: larger;
+    top: 0px;
+    background-color: white;
+    width: 100%;
+    position: fixed;
+}
+
+.divtopo {
+    width: 1024px;
+    margin-left: 250px;
+    background-color: white;
+    height: 50px;
+}
+
+.divtopo .title {
+    position: absolute;
+    top: 10px;
+}
+
+.divtopo .tag {
+    position: absolute;
+    top: 10px;
+    left: 1000px;
+}
+
+.title {
+    margin-bottom: -22px;
+    text-align: left;
+    font-size: large;
+}
+
+.title a {
+    color: black;
+    font-size: larger;
+}
+
+.tag {
+    text-align: right;
+    float: right;
+}
+
+.tag a {
+    color: black;
+}
+
+.topo a {
+    padding: 20px;
+    text-decoration: none;
+}
+
+span {
+    color: #6c96b3;
+}
+.container8{
+    color: white;
+    display:flex;
+    justify-content: center;
+    padding-top: 30px;
+    h1{
+        text-align: justify;
+    }
+    .rodape1{
+        padding-right: 80px;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    img{
+        width: 40px;
+        height: 40px;
+    }
+    .rodape2, .rodape3, .rodape4{
+        display: flex;
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+}
+.img-rodape{
+    padding-right: 10px;
+}
+.container9{
+    text-align: center;
+    background-color: #50b496;
+    border-top:  #409b7f 3px solid;
+    padding: 1%;
+    color: white;
+}
